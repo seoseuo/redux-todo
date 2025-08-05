@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <nav>
         <section>
-          <h1>Redux Fundamentals Example</h1>
+          <h1>Redux - TODO</h1>
 
           <div className="navContent">
             <div className="navLinks"></div>
@@ -13,7 +13,7 @@ function App() {
         </section>
       </nav>
       <section>
-        <h2>Welcome to the Redux Fundamentals example app!</h2>
+        <h2>리덕스 활용 투두 리스트</h2>
       </section>
     </div>
   )
